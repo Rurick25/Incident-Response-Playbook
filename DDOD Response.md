@@ -309,7 +309,7 @@ Outcome: A well-documented incident that can be referenced for audits, complianc
   - Update Repositories: Add the new IoCs to internal threat databases to enhance detection and response capabilities.
   - Correlate with Existing Threats: Use the platform to compare the new data with known threats to identify any links or patterns.
 - Outcome: Enhanced threat intelligence that bolsters the organization’s ability to anticipate and mitigate similar attacks in the future.
-####Action Steps:
+#### Action Steps:
 1. Conduct a thorough post-incident review, involving all relevant stakeholders to assess the response and gather insights.
 2. Document the incident, including the attack timeline, actions taken, and lessons learned, to build a knowledge base for future incidents.
 3. Update the DDoS response playbook with changes derived from the post-incident analysis to improve future responses.
